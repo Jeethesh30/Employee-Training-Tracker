@@ -1,0 +1,22 @@
+Employee-Training-Tracker
+📌 Problem Statement
+
+In large organizations, managing employee training and certifications is challenging. HR teams struggle to track who has completed mandatory trainings, which certifications are nearing expiration, and how departments compare in training compliance. Manual tracking through spreadsheets is time-consuming, error-prone, and lacks real-time visibility.
+
+✅ Solution Statement
+
+The Employee Training Tracker is a Salesforce-based application designed to streamline the management of employee trainings and certifications. It centralizes employee, training, and certification data, enabling HR and managers to assign trainings, enroll employees, and monitor progress.
+
+The system automates approvals and reminders, while dashboards and reports provide insights into completion rates, department-wise participation, and expiring certifications. This solution ensures compliance, reduces manual overhead, and promotes continuous workforce development.
+
+📦 Modules
+
+Employee Management – Store employee details (ID, department, role, contact).
+
+Training Management – Define training programs with topics, dates, and requirements.
+
+Enrollment Management – Track employee enrollments and training status.
+
+Certification Management – Monitor certification validity and renewal.
+
+Reports & Dashboards – Visualize completion rates, expiring certifications, and department trends.
