@@ -1,58 +1,18 @@
-Employee-Training-Tracker
-📌 Problem Statement
+# Salesforce DX Project: Next Steps
 
-In large organizations, managing employee training and certifications is challenging. HR teams struggle to track mandatory trainings, certification expirations, and compliance. Manual tracking is time-consuming, error-prone, and lacks real-time visibility.
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-✅ Solution
+## How Do You Plan to Deploy Your Changes?
 
-This Salesforce-based application streamlines training and certification management. It centralizes employee, training, and enrollment data, automates approvals and reminders, and provides dashboards for monitoring completion rates and compliance.
+Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-📦 Modules
+## Configure Your Salesforce DX Project
 
-Employee Management – Store employee details (ID, department, role).
+The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-Training Management – Create and manage training sessions.
+## Read All About It
 
-Enrollment Management – Track employee participation and progress.
-
-Certification Management – Monitor certification validity and expirations.
-
-Reports & Dashboards – Visualize training completion and compliance trends.
-
-⚙️ Features
-
-Centralized training and certification database
-
-Automated approval workflows
-
-Expiry reminders for certifications
-
-Real-time reports and dashboards
-
-🚀 How to Build
-
-Create custom objects: Employee, Training, Enrollment, Certification
-
-Add fields and relationships
-
-Configure flows for automation (approval, reminders)
-
-Build reports and dashboards
-
-Test with sample employee data
-
-📊 Tech Stack
-
-Platform: Salesforce
-
-Tools: Flows, Reports, Dashboards, Apex (optional), Salesforce CLI (optional)
-
-🌟 Outcomes
-
-Improved training compliance
-
-Reduced manual overhead
-
-Real-time visibility for HR and managers
-
-Scalable solution for workforce development
+- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
+- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
+- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
+- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
